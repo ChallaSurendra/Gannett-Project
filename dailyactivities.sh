@@ -3,3 +3,4 @@ Sunday
 Monday
 Tuesday
 Wednessday
+Thursday
